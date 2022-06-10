@@ -10,7 +10,7 @@
      font-family: 'Roboto', sans-serif; 
      font-size: 16px; 
      line-height: 1.5; 
-     color: #fff; 
+     color: #141414; 
  } 
   
  .wrapper { 
@@ -28,12 +28,12 @@
  } 
   
  .card { 
-     background: rgba(60, 59, 59, 0.6); 
-     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.369); 
+     background: rgba(20, 20, 20, 0); 
+     box-shadow: 0 8px 32px 0 rgba(20, 20, 20, 0); 
      backdrop-filter: blur(3px); 
      -webkit-backdrop-filter: blur(3px); 
      border-radius: 10px; 
-     border: 1px solid rgba(255, 255, 255, 0.18); 
+     border: 1px solid rgba(20, 20, 20, 0); 
      padding: 12px; 
      width: 50%; 
  } 
@@ -64,12 +64,12 @@
      border-radius: 50%; 
      width: 20px; 
      height: 20px; 
-     background-color: #fff; 
+     background-color: #141414; 
      position: absolute; 
      top: 0px; 
      right: 0px; 
      transform: translate(50%, -50%); 
-     border: 2px solid rgba(60, 59, 59, 0.3); 
+     border: 2px solid rgba(20, 20, 20, 0); 
  } 
   
  #username { 
