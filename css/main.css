@@ -23,7 +23,7 @@ body {
     width: 100%;
     min-height: 100vh;
     gap: 10px;
-    background: url(../assets/background.gif);
+    background: url(./assets/background.gif);
 }
 
 .card {
@@ -43,6 +43,12 @@ body {
     margin-bottom: 16px;
     font-family: monospace;
     opacity: 0.5;
+}
+
+.racism {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 /* / Profile \ */
