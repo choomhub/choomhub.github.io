@@ -44,7 +44,7 @@ $(document).ready(() => {
 
     link = $('#marquee').children('a').last();
 
-    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="./assets/images/icon.jpg"> ');
+    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="./assets/icons/scroller.png"> ');
   }
 
   if (mobileAndTabletCheck()) {
