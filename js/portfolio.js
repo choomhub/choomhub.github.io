@@ -44,7 +44,7 @@ $(document).ready(() => {
 
     link = $('#marquee').children('a').last();
 
-    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="./assets/icons/scroller.png"> ');
+    if (i != links.length - 1) $('#marquee').append(' <img class="emoticon" src="https://cdn.discordapp.com/attachments/947125997759758357/986687142359072808/scroller.png"> ');
   }
 
   if (mobileAndTabletCheck()) {
