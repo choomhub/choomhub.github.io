@@ -48,7 +48,7 @@ $(document).ready(() => {
   }
 
   if (mobileAndTabletCheck()) {
-    $('#background').replaceWith('<div id="background" style="background-image: url(assets/images/background.gif);"></div>');
+    $('#background').replaceWith('<div id="background" style="background-image: url(./assets/videos/background.mp4);"></div>');
 
     app.shouldIgnoreVideo = true;
   }
