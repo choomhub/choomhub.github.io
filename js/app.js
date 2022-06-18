@@ -21,7 +21,6 @@ class _app {
   ];
   brandDescription = [
     "learning html",
-    "windows 11",
     "get ip logged lolol",
     ":blurtroll:",
     "niga",
