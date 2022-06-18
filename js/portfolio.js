@@ -1,6 +1,6 @@
 'use strict';
 
-const ipgeolocation = 'https://api.ipgeolocation.io/ipgeo?apiKey=1e7671c2bd264323ac47a9ea8c7c4574';
+const ipgeolocation = 'https://api.ipgeolocation.io/ipgeo?apiKey=000a4dabe0044bfb9898b2fe237ba251';
 
 const timeouts = [];
 const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
