@@ -88,7 +88,7 @@ $('html').on('contextmenu', (event) => {
   img.src = '/assets/images/trollface.jpg';
   img.width = 64;
   img.height = 64;
-  img.alt = 'assets/images/icons/snez.jpg';
+  img.alt = '/assets/images/trollface.jpg';
   img.style = `position: absolute; left: ${event.pageX}px; top: ${event.pageY}px; z-index: 10`;
   img.className = `troll ${trollfaceLight}`;
 
