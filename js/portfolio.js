@@ -53,8 +53,8 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['choom', 'choomh', 'choomhu', 'choomhub', 'choomhu', 'choomh']);
-  app.iconChanger(['./assets/images/icons/em.png', './assets/images/icons/snez.jpg', './assets/images/icons/em.png', './assets/images/icons/snez.jpg', './assets/images/icons/em.png', './assets/images/icons/snez.jpg']);
+  app.titleChanger(['choomhub', 'hoomhub -', 'oomhub - c', 'omhub - ch', 'mhub - cho', 'hub - choo', 'ub - choom', 'b - choomh', '- choomhu', 'choomhub', ]);
+  app.iconChanger(['./assets/images/icons/em.png', './assets/images/icons/snez.jpg']);
 });
 
 if ($.cookie('videoTime')) {
